@@ -3,21 +3,19 @@
 I'm just unemployed who likes the internet world.
 
 - About me:
- - My Age: 16
+  - My Age: 16
 
-- Programming Languages i likes:
-  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-  - ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) Node.js
+- Programming Languages I like:
+  - [Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20"/>](https://www.python.org/)
+  - [Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="20"/>](https://nodejs.org/)
 
-- Frameworks i likes:
+- Frameworks I like:
   - [Tailwind CSS](https://tailwindcss.com/)
   - [Express.js](https://expressjs.com/)
 
-- Library i likes:
+- Libraries I like:
   - [Axios](https://axios-http.com/)
   - [Flask](https://flask.palletsprojects.com/)
-
-
 
 ## ⚡ GitHub Stats
 
