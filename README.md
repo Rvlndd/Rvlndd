@@ -1,6 +1,6 @@
 # hi im Rvlnd
 
-## I'm just unemployed who likes the internet world.
+<div style="color: red;"> I'm just unemployed who likes the internet</div>
 
 - About me:
   - My Age: 16
