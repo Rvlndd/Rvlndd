@@ -1,17 +1,18 @@
-# Hey, I'm Rvlnd! 👋
+# hi im Rvlnd
 
-I'm just unemployed who likes the internet world.
+## I'm just unemployed who likes the internet world.
 
 - About me:
   - My Age: 16
+<p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=43853d&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=3776ab&labelColor=282828">
+    <img src="https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=00599c&labelColor=282828">
+  </div>
+</p>
 
-- Programming Languages I like:
-  - [Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20"/>](https://www.python.org/)
-  - [Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="20"/>](https://nodejs.org/)
-
-- Frameworks I like:
-  - [Tailwind CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="20"/>](https://tailwindcss.com/)
-  - [Express.js <img src="https://expressjs.com/images/favicon.png" alt="Express.js Logo" width="20"/>](https://expressjs.com/)
 
 
 ## ⚡ GitHub Stats
