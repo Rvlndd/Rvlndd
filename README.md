@@ -1,4 +1,4 @@
-16 yo
+![Learning | Next.js](https://img.shields.io/badge/Learning-Next.js-black?logo=next.js&logoColor=white)
 
 
 <p align="center">
