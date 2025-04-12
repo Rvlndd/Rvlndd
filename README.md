@@ -5,6 +5,9 @@
   <img src="https://discord.c99.nl/widget/theme-1/606809579073961985.png">
 </p>
 
+
+fuck eslint, fuck cleancode
+
 <h1>About Me ~</h1>
 <p>Age: Secreet b-but im still a minor <3</p>
 <p>Gender: Male</p>
