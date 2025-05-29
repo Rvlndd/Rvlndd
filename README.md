@@ -9,7 +9,7 @@
 
 
 <h1>About Me ~</h1>
-<p>Age: Secreet b-but im still a minor <3</p>
+<p>Age: hmph, im legal <3</p>
 <p>Gender: Male</p>
 <p>Hobby: be simp for tiktok girls</p>
 
