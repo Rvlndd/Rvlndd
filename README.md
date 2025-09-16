@@ -13,5 +13,7 @@
 <p>Gender: Male</p>
 <p>Hobby: be simp for tiktok girls</p>
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+
 
 im a solo (mostly) developer, but sometimes not
