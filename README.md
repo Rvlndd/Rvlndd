@@ -9,11 +9,9 @@
 
 
 <h1>About Me ~</h1>
-<p>Age: hmph, im legal <3</p>
+i love cat
 <p>Gender: Male</p>
-<p>Hobby: be simp for tiktok girls</p>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+<p>i woke up and i woke up and today i woke up</p>
 
 
-im a solo (mostly) developer, but sometimes not
+im a solo (mostly) developer
