@@ -9,9 +9,7 @@
 
 
 <h1>About Me ~</h1>
-i love cat
-<p>Gender: Male</p>
+Avel - He/him
+
 <p>i woke up and i woke up and today i woke up</p>
 
-
-im a solo (mostly) developer
